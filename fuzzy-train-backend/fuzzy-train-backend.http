@@ -1,0 +1,6 @@
+@fuzzy_train_backend_HostAddress = http://localhost:5126
+
+GET {{fuzzy_train_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
